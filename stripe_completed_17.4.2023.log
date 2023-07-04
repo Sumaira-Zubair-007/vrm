@@ -1,0 +1,40 @@
+User: 2601:285:c000:9e20:196:4045:5288:a9c - April 17, 2023, 8:25 pm
+Data: <pre>Array
+(
+    [/vendor/profile/complete] => 
+    [csrf_cookie] => 43f91df3190db0efa6a587469562fe61
+    [ci_session] => c41ea38f4ad90d17c9fe68963a0da53c669378f6
+)
+ ---- Array
+(
+)
+User: 2601:285:c000:9e20:196:4045:5288:a9c - April 17, 2023, 8:27 pm
+Data: <pre>Array
+(
+    [/vendor/profile/complete] => 
+    [csrf_cookie] => 43f91df3190db0efa6a587469562fe61
+    [ci_session] => 9df78f997517014cd75c2d0ea9f897d6a83826e8
+)
+ ---- Array
+(
+)
+User: 2601:285:c000:9e20:196:4045:5288:a9c - April 17, 2023, 8:31 pm
+Data: <pre>Array
+(
+    [/vendor/profile/complete] => 
+    [csrf_cookie] => 43f91df3190db0efa6a587469562fe61
+    [ci_session] => 9df78f997517014cd75c2d0ea9f897d6a83826e8
+)
+ ---- Array
+(
+)
+User: 2601:285:c000:9e20:196:4045:5288:a9c - April 17, 2023, 8:31 pm
+Data: <pre>Array
+(
+    [/vendor/profile/complete] => 
+    [ci_session] => 57fea4d402ff5d3d97c756ea98c82ae57f85eff0
+    [csrf_cookie] => 43f91df3190db0efa6a587469562fe61
+)
+ ---- Array
+(
+)

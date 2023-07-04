@@ -1,0 +1,10 @@
+User: 2600:387:c:5511::5 - April 19, 2023, 5:01 pm
+Data: <pre>Array
+(
+    [/vendor/profile/complete] => 
+    [csrf_cookie] => 1307b036e1b019b167b80293818abd06
+    [ci_session] => e65bd2bda7b4cbe28067a028a64b8db0815c41e6
+)
+ ---- Array
+(
+)
